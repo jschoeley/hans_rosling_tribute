@@ -1,3 +1,6 @@
+# Recreating Gapminder Wealth & Health of Nations
+# https://www.gapminder.org/world/
+
 library(gapminder)
 library(ggplot2)
 library(gganimate) #devtools::install_github("dgrtwo/gganimate")
